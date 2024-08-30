@@ -58,23 +58,6 @@ print(f"Predicition value: {pre}")
 
 ![Screenshot 2024-08-29 183628](https://github.com/user-attachments/assets/a6757808-d2b5-43e7-84df-7d905921efa9)
 
-
-
-
-![Screenshot 2024-08-29 183902](https://github.com/user-attachments/assets/222eec0a-231f-4868-924c-e5ef5cdb73af)
-
-
-
-![Screenshot 2024-08-29 183939](https://github.com/user-attachments/assets/f5e92ce7-0079-41d2-ada2-9d750fd96555)
-
-
-
-![Screenshot 2024-08-29 183956](https://github.com/user-attachments/assets/01bbe8f1-6ff8-4a71-9971-467a68c65fa1)
-
-
-![Screenshot 2024-08-29 184017](https://github.com/user-attachments/assets/1cc455c0-401f-4b95-8eec-3eb2ee9fc80e)
-
-
 ![Screenshot 2024-08-29 183019](https://github.com/user-attachments/assets/fecd0007-9351-4a0c-8df1-dc9ce935a2cd)
 
 
